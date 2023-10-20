@@ -1,6 +1,7 @@
 Bharat_Intern_Data_Science
 
 Task 1: The Titanic Classification
+
 The Titanic Classification Project is an endeavor to utilize machine learning and data analysis techniques to predict the survival of passengers aboard the ill-fated RMS Titanic. The sinking of the Titanic is one of the most infamous maritime disasters in history, and this project aims to shed light on the factors that influenced passenger survival. By analyzing historical data, we can build a model to predict whether a given passenger survived or perished.
 The project consists of several key components, including data preprocessing, model selection, training, evaluation, and prediction. It leverages a well-known dataset, the "Titanic: Machine Learning from Disaster" dataset available on Kaggle, to perform these tasks. The dataset contains valuable information about passengers, such as their age, gender, ticket class, and other attributes, along with a binary indicator of whether they survived or not.
 
