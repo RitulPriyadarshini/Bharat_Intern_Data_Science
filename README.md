@@ -1,4 +1,4 @@
-Bharat_Intern_Data_Science
+BHARAT_INTERN_DATA_SCIENCE
 
 Task 1: The Titanic Classification
 
