@@ -33,6 +33,7 @@ The Titanic Classification Project is a demonstration of how data science and ma
 
 
 
+
 Task 2: Handwritten Digit Recognition with the MNIST Dataset
 
 This project illustrates a Python script that employs a deep learning model to identify handwritten numbers. It makes use of the MNIST dataset for training and a pre-trained model to forecast the digits in images stored in a designated desktop folder. The code commences by loading and preparing the MNIST dataset, training a neural network model, and subsequently applying this model for digit prediction on images stored in the specified directory.
